@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\bisection search algorithm\bisection search algorithm\main.c(17,14): warning C4013: 'getche' undefined; assuming extern returning int
+  bisection search algorithm.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\bisection search algorithm\Debug\bisection search algorithm.exe
